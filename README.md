@@ -6,7 +6,7 @@ Este repositorio contiene el código Python desarrollado en el Trabajo Final de 
 **Tutor**: Jordi Canela Sánchez  
 **Curso**: 2024/2025
 
-## 🧠 Descripción
+## Descripción
 
 El script genera imágenes del **espacio de parámetros** asociado al método iterativo de **Chebyshev-Halley** y su comportamiento dinámico.  
 Cada punto `α ∈ ℂ` se colorea según el comportamiento del punto crítico correspondiente bajo iteración.
