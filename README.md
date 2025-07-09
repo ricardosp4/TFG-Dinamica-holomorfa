@@ -8,5 +8,5 @@ Este repositorio contiene el código Python desarrollado en el Trabajo Final de 
 
 ## Descripción
 
-El script genera imágenes del **espacio de parámetros** asociado al método iterativo de **Chebyshev-Halley** y su comportamiento dinámico.  
-Cada punto se colorea según el comportamiento del punto crítico correspondiente bajo iteración.
+Este repositorio contiene todos los scripts y notebooks en Python desarrollados durante la realización de mi Trabajo de Fin de Grado. Aquí encontrarás implementaciones, experimentos y análisis relacionados con los temas tratados en el proyecto. Los códigos están organizados para facilitar su comprensión y reutilización, incluyendo comentarios y documentación básica.
+
