@@ -39,6 +39,9 @@ Aquí se listan los archivos más importantes junto con una breve descripción:
 
 ## Cómo ejecutar los códigos
 
+- Para ejecutar los notebooks, abre los archivos `.ipynb` con Jupyter Notebook o JupyterLab.  
+- Los scripts `.py` se pueden ejecutar con Python directamente.
+
 ## Requisitos
 
 - Python 3.6 o superior  
